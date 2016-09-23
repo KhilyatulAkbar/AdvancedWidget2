@@ -30,5 +30,5 @@
         android:id="@+id/textViewhasil"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hasil" />
+        tools:text="Hasil" />
 </LinearLayout>
